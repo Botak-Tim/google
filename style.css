@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-decoration: row;
+  justify-content: right;
+  font-family: Roboto, arial, sans-serif;
+}
+
+.container-a {
+  margin: 19px;
+}
+
+.navbar-a {
+  text-decoration: none;
+  margin: 0px 10px 0px 1px;
+  font-weight: 20px;
+}
+
+.container-img {
+  display: flex;
+  margin: 10px 10px 30px 5px;
+}
+
+.img-1 {
+  height: 20px;
+  width: 20px;
+  margin: 8px 20px 0px 0px ;
+}
+
+.img-2 {
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+}
