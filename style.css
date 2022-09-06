@@ -47,12 +47,31 @@ html{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50vh;
+  height: 30vh;
   width: 100%;
   justify-content: center;
   font-family: "comic sans m.s",cursive;
-  font-size: 27px;
+  font-size: 40px;
+  margin-top: 35px;
+/*   background-color: #333; */
 }
 
 .div-h1 {
+}
+
+.div-search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+/*   background-color: #333; */
+  
+}
+
+.input {
+  border-radius: 50px;
+  margin-top: 20px;
+  padding: 10px 1250px 10px 1000px;
+  padding-inline-start: 30px;
+  padding-inline-end: 230px;
 }
